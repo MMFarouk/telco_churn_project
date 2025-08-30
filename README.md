@@ -82,3 +82,5 @@ Troubleshooting
 LLM JSON errors: endpoint is hardened; if model outputs non-JSON, we fallback to defaults instead of crashing.
 
 Mismatched columns: make sure you’re using the features.json saved by the notebook that trained the deployed model.
+
+### Refer to docs directory for more information
