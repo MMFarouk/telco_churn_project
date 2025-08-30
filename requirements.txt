@@ -1,0 +1,17 @@
+# API
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+
+# Data & ML
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+joblib==1.3.2
+
+# Hugging Face LLM (FLAN-T5 Small)
+transformers==4.41.2
+sentencepiece==0.1.99
+accelerate>=0.30.0
+
+# Deep learning backend
+torch>=2.1.0
